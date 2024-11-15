@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For LiquidCrystal
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Hardware	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+setRelay	KEYWORD2
+setAllRelay	KEYWORD2
+setLed	KEYWORD2
+toggleLed	KEYWORD2
+getButton	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ROJO	LITERAL1
+VERDE	LITERAL1
+SW1	LITERAL1
+SW2	LITERAL1
